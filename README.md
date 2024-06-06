@@ -15,7 +15,7 @@ CONSULT-classify has four argument `--input-matches-dir` (`-i`), `--output-predi
 See example experiments to get started.
 
 ## Installation
-In order to compile the code, `tbb` library must be installed and builded first.
+In order to compile the code, `tbb` library must be installed and builtfirst.
 Run `misc/get_tbb.sh` to install and build the `tbb` library into the repository's main directory (`lib/tbb`).
 You may need to check the paths given for `TBB_LIBRARY_RELEASE` and `TBB_LIBRARY_DEBUG` in the makefile after building `tbb`.
 If they are not matching with the build directories in `lib/tbb/build/`, change them accordingly.
